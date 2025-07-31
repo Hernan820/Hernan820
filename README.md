@@ -1,3 +1,6 @@
+![Portada](https://i.imgur.com/z6C2fUC.png)  <!-- ejemplo -->
+
+
 ## 👨‍💻 Hernán Benítez
 
 📍 El Salvador  

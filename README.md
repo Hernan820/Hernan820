@@ -1,4 +1,4 @@
-![Portada](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png)
+![Portada](https://github.com/Hernan820/Hernan820/blob/main/gamming.jpeg?raw=true)
 
 
 ## 👨‍💻 Hernán Benítez

@@ -1,4 +1,3 @@
-![Portada](https://github.com/Hernan820/Hernan820/blob/main/gamming.jpeg?raw=true)
 
 
 ## 👨‍💻 Hernán Benítez

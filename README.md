@@ -1,4 +1,4 @@
-![Portada](https://i.imgur.com/z6C2fUC.png)  <!-- ejemplo -->
+![Portada](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner7.png)
 
 
 ## 👨‍💻 Hernán Benítez
